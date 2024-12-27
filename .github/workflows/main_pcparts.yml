@@ -59,4 +59,4 @@ jobs:
           app-name: 'pcparts'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B6390F6EB724B3FAFF9FC445185DCEC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28591B72347948B9BBF7FC73D22E4DAA }}
